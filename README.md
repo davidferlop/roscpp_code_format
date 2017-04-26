@@ -5,7 +5,7 @@ minor adjustments for our style guidelines.
 
 ## Clang dependency
 
-This clang format file uses clang-format-4.0
+This clang format file uses clang-format-4.0 you can find the required apt sources on the [llvm webpage](http://apt.llvm.org/). Then simply `run apt-get install clang-format-4.0`.
 
 ## Usage with Qt
 
